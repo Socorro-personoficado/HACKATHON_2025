@@ -1,0 +1,28 @@
+p{
+    text-align: center;
+    background-color:lightgreen;
+    color: white;
+    padding-top: 1.7%;
+    padding-bottom: 1.7%;
+    margin: -1%;
+}
+
+#opcao1{
+    padding-right:12%;
+    text-align: center;
+    background-color:lightgreen;
+    color: white;
+    padding-top: 1.7%;
+    padding-bottom: 1.7%;
+    margin: -1%;
+}
+
+#opcao2{
+    padding-left:12%;
+    text-align: center;
+    background-color:lightgreen;
+    color: white;
+    padding-top: 1.7%;
+    padding-bottom: 1.7%;
+    margin: -1%;
+}
